@@ -1,0 +1,33 @@
+https://www.linkedin.com/in/vijay-dantuluri-5a4470b9/
+
+Employer's Details:- 
+
+Company Name: Wenova Inc.
+Name: Sriram
+Contact: 732 666 3636
+MailId: sriram@wenova.com
+
+Present Client:
+
+Designation: QA Manager
+Company: CF Industries
+Name: Sandeep Singh
+MailId: ssingh@cfindustries.com
+Contact: 847 313 8118
+
+Designation: QA Engineer
+Company: CF Industries
+Name: Niraj Patel
+MailId: Npatel@cfindustries.com
+Contact: 630 557 9474.
+
+Last Client:
+
+Designation: Lead QA
+Company: S&P Global
+Name: Kumud Dham
+MailID: kumud_dham@spglobal.com
+Contact: 732 687 1996
+
+	
+
